@@ -1,2 +1,2 @@
 # PHPSQLForm.php
-Formulario en PHP y SQL
+Formulario en PHP y MySQLiii
